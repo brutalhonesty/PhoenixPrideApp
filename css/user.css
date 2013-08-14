@@ -1,0 +1,24 @@
+#pad {
+ margin:15px;   
+    
+}
+.google-map  {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+hr {
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #ccc;
+    text-align: center;
+}
+hr:after {
+    content: "Â§";
+    display: inline-block;
+    position: relative; 
+    top: -0.7em;  
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: #F8F8F8 ;
+}
